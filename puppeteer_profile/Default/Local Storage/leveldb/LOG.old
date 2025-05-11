@@ -1,3 +1,51 @@
-2025/04/11-15:51:29.433 a414 Reusing MANIFEST C:\Users\nimmi\OneDrive - Nova Southeastern University\Desktop\crypto\Puppteer\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/04/11-15:51:29.443 a414 Recovering log #485
-2025/04/11-15:51:29.448 a414 Reusing old log C:\Users\nimmi\OneDrive - Nova Southeastern University\Desktop\crypto\Puppteer\puppeteer_profile\Default\Local Storage\leveldb/000485.log 
+2025/04/11-15:51:55.109 6810 Reusing MANIFEST C:\Users\nimmi\OneDrive - Nova Southeastern University\Desktop\crypto\Puppteer\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/11-15:51:55.116 6810 Recovering log #485
+2025/04/11-15:51:55.120 6810 Reusing old log C:\Users\nimmi\OneDrive - Nova Southeastern University\Desktop\crypto\Puppteer\puppeteer_profile\Default\Local Storage\leveldb/000485.log 
+2025/04/11-15:52:37.534 19a0 Level-0 table #489: started
+2025/04/11-15:52:37.631 19a0 Level-0 table #489: 481804 bytes OK
+2025/04/11-15:52:37.641 19a0 Delete type=0 #485
+2025/04/11-15:54:06.428 19a0 Level-0 table #491: started
+2025/04/11-15:54:06.541 19a0 Level-0 table #491: 493073 bytes OK
+2025/04/11-15:54:06.561 19a0 Delete type=0 #488
+2025/04/11-15:54:25.635 19a0 Level-0 table #493: started
+2025/04/11-15:54:25.712 19a0 Level-0 table #493: 500431 bytes OK
+2025/04/11-15:54:25.735 19a0 Delete type=0 #490
+2025/04/11-15:54:25.742 19a0 Compacting 4@0 + 1@1 files
+2025/04/11-15:54:25.812 19a0 Generated table #494@0: 29 keys, 501590 bytes
+2025/04/11-15:54:25.812 19a0 Compacted 4@0 + 1@1 files => 501590 bytes
+2025/04/11-15:54:25.816 19a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-15:54:25.819 19a0 Delete type=2 #484
+2025/04/11-15:54:25.819 19a0 Delete type=2 #486
+2025/04/11-15:54:25.821 19a0 Delete type=2 #489
+2025/04/11-15:54:25.821 19a0 Delete type=2 #491
+2025/04/11-15:54:25.821 19a0 Delete type=2 #493
+2025/04/11-15:54:58.845 19a0 Level-0 table #496: started
+2025/04/11-15:54:58.872 19a0 Level-0 table #496: 504020 bytes OK
+2025/04/11-15:54:58.884 19a0 Delete type=0 #492
+2025/04/11-15:55:30.411 19a0 Level-0 table #498: started
+2025/04/11-15:55:30.601 19a0 Level-0 table #498: 515519 bytes OK
+2025/04/11-15:55:30.645 19a0 Delete type=0 #495
+2025/04/11-15:56:04.684 19a0 Level-0 table #500: started
+2025/04/11-15:56:04.780 19a0 Level-0 table #500: 521752 bytes OK
+2025/04/11-15:56:04.797 19a0 Delete type=0 #497
+2025/04/11-15:57:29.465 19a0 Level-0 table #502: started
+2025/04/11-15:57:29.800 19a0 Level-0 table #502: 539977 bytes OK
+2025/04/11-15:57:29.948 19a0 Delete type=0 #499
+2025/04/11-15:57:30.134 19a0 Compacting 4@0 + 1@1 files
+2025/04/11-15:57:30.530 19a0 Generated table #503@0: 29 keys, 541661 bytes
+2025/04/11-15:57:30.530 19a0 Compacted 4@0 + 1@1 files => 541661 bytes
+2025/04/11-15:57:30.586 19a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-15:57:30.812 19a0 Delete type=2 #494
+2025/04/11-15:57:30.813 19a0 Delete type=2 #496
+2025/04/11-15:57:30.813 19a0 Delete type=2 #498
+2025/04/11-15:57:30.813 19a0 Delete type=2 #500
+2025/04/11-15:57:30.813 19a0 Delete type=2 #502
+2025/04/11-15:57:53.698 6810 Level-0 table #505: started
+2025/04/11-15:57:53.827 6810 Level-0 table #505: 576403 bytes OK
+2025/04/11-15:57:54.020 6810 Delete type=0 #501
+2025/04/11-15:59:00.151 19a0 Level-0 table #507: started
+2025/04/11-15:59:00.263 19a0 Level-0 table #507: 574193 bytes OK
+2025/04/11-15:59:00.297 19a0 Delete type=0 #504
+2025/04/11-16:00:34.107 19a0 Level-0 table #509: started
+2025/04/11-16:00:36.416 19a0 Level-0 table #509: 598959 bytes OK
+2025/04/11-16:00:36.446 19a0 Delete type=0 #506
