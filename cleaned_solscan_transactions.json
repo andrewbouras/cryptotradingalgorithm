@@ -1,0 +1,9 @@
+[
+  {
+    "walletAddress": "4Mb68886nfMgfaven3knVhYMmg3NRhCmXaN9dFxEXeY9",
+    "scrapeTimestamp": "2025-05-13T23:59:44.182Z",
+    "status": "DeFi table selector not found and no explicit \"no data\" message; page structure might be unexpected.",
+    "transactions": [],
+    "error": null
+  }
+]
